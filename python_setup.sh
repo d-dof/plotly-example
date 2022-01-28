@@ -1,0 +1,1 @@
+pip install plotly jupyterlab pandas matplotlib 
